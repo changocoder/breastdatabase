@@ -1,2 +1,2 @@
 # breastdatabase
-we need to download mias mammografy dataset from https://www.kaggle.com/kmader/mias-mammography/downloads/all_mias_scans.h5/3
+we need to download mias mammography dataset from https://bit.ly/2RbRbXj
